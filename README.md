@@ -4,8 +4,8 @@ This is a [MCP](https://modelcontextprotocol.io/introduction) server for queryin
 ## Tools
 ```get-collection-documents```
 #### Inputs
-- collection: string, mongodb collection name
-- database: string, mongodb databse name
+- collection: ```string```, mongodb collection name
+- database: ```string```, mongodb databse name
 #### Output
-- result: list, list of documents in the collection
+- result: ```list```, list of documents in the collection
   
