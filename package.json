@@ -1,0 +1,20 @@
+{
+  "name": "mcp_mongo",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "husky": "^9.1.7",
+    "mongodb": "^6.12.0",
+    "prettier": "^3.4.2"
+  },
+  "scripts": {
+    "prepare": "husky"
+  }
+}
