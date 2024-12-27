@@ -1,15 +1,2 @@
-# mcp_mongo
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.34. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+# mongo-mcp-server
+This is a (MCP)[https://modelcontextprotocol.io/introduction] server for querying mongodb databases.
