@@ -1,2 +1,2 @@
 # mongo-mcp-server
-This is a [https://modelcontextprotocol.io/introduction](MCP) server for querying mongodb databases.
+This is a [MCP](https://modelcontextprotocol.io/introduction) server for querying mongodb databases.
